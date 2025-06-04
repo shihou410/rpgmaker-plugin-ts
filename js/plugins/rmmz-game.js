@@ -1,0 +1,1 @@
+(()=>{"use strict";var e={};console.log("Hello from bundled TypeScript plugin!");var o=window;for(var l in e)o[l]=e[l];e.__esModule&&Object.defineProperty(o,"__esModule",{value:!0})})();
